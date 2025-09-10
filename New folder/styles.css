@@ -1,0 +1,17 @@
+Body{
+	background-color: black
+}
+h1 {
+ font-family: "Lucida Console", Monospace;
+ font-size: 90px;
+  color: green;
+  text-align: center;
+}
+
+p {
+  font-family: "Lucida Console", Monospace;
+  font-size: 20px;
+  color: green;
+  text-align: center
+}
+
